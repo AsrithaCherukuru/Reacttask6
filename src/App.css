@@ -1,0 +1,86 @@
+
+#id1{
+  height:300px;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAOshuFUmeakoV-JUcu7_FPvRz0C6WTqcAKX20xUAkELdnAW-sCgHjiojYiCSlb0-Ouzw&usqp=CAU");
+  font-size: 50px;
+  text-align: center;
+  padding-top:50px;
+}
+#id2{
+  height:400px;
+  text-align: center;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKMVn5JpYwA-32Zb0QWDuxLG-kaPL8lrrDMJuwtuXzTrEMR_3mTr2Q__eT-RAQgSsK4o0&usqp=CAU");
+  font-size: 25px;
+  color:whitesmoke;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+#id3{
+  font-size: 50px;
+  text-align: center;
+  background-size: cover; /* or 'contain' based on your preference */
+  background-position: center; /* Optional: adjust the position if needed */
+  background-repeat: repeat; 
+  color:red;
+}
+#id4{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKMVn5JpYwA-32Zb0QWDuxLG-kaPL8lrrDMJuwtuXzTrEMR_3mTr2Q__eT-RAQgSsK4o0&usqp=CAU");
+  height:250px;
+  width: 100%;
+  text-align: center;
+ 
+}
+#id5{
+  font-size: 30px;
+  margin-left:30px;
+  margin-right:20px;
+  color:black
+}
+#id5:hover{
+  -webkit-text-fill-color:white;
+}
+#id6{
+  font-size:30px;
+  cursor: pointer;
+  margin-right: 30px;
+  -webkit-text-fill-color:white;
+}
+#id6:hover{
+  -webkit-text-fill-color:red;
+}
+#id8{
+  text-decoration: none;
+}
+#id9 {
+  background-image: url( "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKMVn5JpYwA-32Zb0QWDuxLG-kaPL8lrrDMJuwtuXzTrEMR_3mTr2Q__eT-RAQgSsK4o0&usqp=CAU ");
+  width: 100%;
+  height: 200px;
+  text-align: center;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+#id10{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKMVn5JpYwA-32Zb0QWDuxLG-kaPL8lrrDMJuwtuXzTrEMR_3mTr2Q__eT-RAQgSsK4o0&usqp=CAU");
+
+  height:250px;
+  text-align: center;
+  background-size: cover; /* or 'contain' based on your preference */
+  background-position: center; /* Optional: adjust the position if needed */
+  background-repeat: no-repeat; /* Ensure the background does not repeat */
+}
+#id11{
+  font-size:25px;
+  cursor: pointer;
+  margin-right: 50px;
+  -webkit-text-fill-color:white;
+}
+#id11:hover{
+  -webkit-text-fill-color: orange;
+}
+#id12{
+  -webkit-text-fill-color:red;
+  font-size: 50px;
+  text-align: center;
+} 
